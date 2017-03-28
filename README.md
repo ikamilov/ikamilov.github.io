@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Particle Jekyll Theme
 
 ![](./particle.jpg)
@@ -72,3 +73,6 @@ This theme is free and open source software, distributed under the The MIT Licen
 This theme was partially designed with the inspiration from these fine folks
 - [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
 - [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)
+=======
+# ikamilov.github.io
+>>>>>>> 1264d8fcf050a38a9e6a96fcfd8cb05ab7f157d7
