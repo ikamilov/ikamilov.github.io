@@ -1,17 +1,17 @@
 # Site settings
-title: A blog about lorem ipsum dolor sit amet
-description: A blog about lorem ipsum dolor sit amet
+title: Home Automation with Raspberry Pi
+description: Technology has improved and this is a new era. We have systems control home appliances over voice, smartphones and remotes. Here I propose an automated home automation that works on speech processing.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Anon Developer
-user_description: Bicycle rights irony actually neutra typewriter lyft. Man bun taxidermy put a bird on it, umami yr ramps pop-up ugh bushwick chia lo-fi. Occupy bitters pour-over snackwave you probably haven't heard of them small batch. Cornhole mustache man bun letterpress echo park VHS.
-user_title: Software Developer
-email: anon@anon.com
-twitter_username: lorem_ipsum
-github_username:  lorem_ipsum
-gplus_username:  lorem_ipsum
+username: Islam Kamilov
+user_description: Motivated to build software program and experienced working with groups. Dedicated to learning and improving programs. Background in software development and cyber security.
+user_title: Software Engineer | Cyber Security Engineer
+email: kamilov6@gmail.com
+twitter_username: https://twitter.com/IslamKamilov
+github_username:  https://github.com/ikamilov
+gplus_username:  https://plus.google.com/u/0/106863272901917873979
 
 # Google-analytics
 google-analytics:
